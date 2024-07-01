@@ -1,0 +1,7 @@
+04:20:13   admin Login
+04:20:27   admin NewFurniture chair 51
+04:20:33   admin NewFurniture table 51
+04:20:41   admin AddFurniture chair 1
+04:20:41   admin AddFurniture chair 1
+04:20:41   admin AddFurniture chair 1
+04:20:47   admin Logout
